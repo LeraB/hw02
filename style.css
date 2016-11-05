@@ -1,0 +1,13 @@
+
+   .leftimg {
+    float:left;
+    margin: 7px 7px 7px 0; 
+   } 
+   
+   .field{    
+width: 650px;
+margin: 0 auto;
+border-left: 3px solid #e3e3e3;
+border-right: 3px solid #e3e3e3;
+padding: 30px 80px;
+}
